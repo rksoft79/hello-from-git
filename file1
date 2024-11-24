@@ -3,3 +3,9 @@ Hello world from git
 git commands
 
 git init
+********************
+git branch -M main
+git remote add origin https://github.com/rksoft79/hello-from-git.git
+git push -u origin main
+ 
+
